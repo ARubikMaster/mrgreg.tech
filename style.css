@@ -230,7 +230,8 @@ button:hover {
 }
 
 @media (max-width: 767px) {
-    .mobile-warning {
-        display: flex;
+    .content {
+        flex-direction: column;
     }
+    
 }
